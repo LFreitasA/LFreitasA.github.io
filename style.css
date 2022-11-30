@@ -1,0 +1,20 @@
+#my-picture {
+  border-radius: 50%;
+  width: 200px;
+}
+
+.textoInicial {
+  background-color: rgba(245, 42, 16, 0.39);
+}
+
+.body {
+  background-color: rgb(0, 0, 0);
+}
+.p {
+  color: rgb(0, 0, 0);
+  display: inline-block;
+}
+
+.container {
+  display: flex;
+}
